@@ -4,4 +4,3 @@ scikit-learn==0.24.2
 pickle4==0.0.1
 
 requests~=2.26.0
-pickle~=0.1.0
